@@ -1,7 +1,7 @@
 # LinearAlgebraApplications
 Linear algebra engineering applications including channel decoding, sparsity channel recovering &amp; PCA (UC San Diego ECE269)
 
-> First of all, Piya is the best professor I've ever seen !!!!!!!!!
+> First of all, Piya is one of the best professor I've ever seen !!!!!!!!!
 > & I LOVE PIYA
 
 - Channel Decoding
